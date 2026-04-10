@@ -4,7 +4,7 @@ Hi there 👋, I'm Maruf Sharia
 
 # 👨‍💻 Maruf Sharia/মারুফ শাহরিয়া
 
-**Software Engineer | Flutter & Web Developer**
+** Software Engineer | Flutter & Web Developer **
 
 ---
 
@@ -63,9 +63,9 @@ Hi there 👋, I'm Maruf Sharia
 
 ### 🌐 Connect With Me
 
-- 🌍 [codebusket.com](https://marufsharia.com)
-- 🐦 [Twitter/X: @codebusket](https://twitter.com/marufsharia)
-- 💼 [LinkedIn: codebusket](https://linkedin.com/in/marufsharia)
+- 🌍 [marufsharia.me](https://marufsharia.com)
+- 🐦 [Twitter/X: @marufsharia](https://twitter.com/marufsharia)
+- 💼 [LinkedIn: marufsharia](https://linkedin.com/in/marufsharia)
 - 🎮 Discord: marufsharia
 
 ---
